@@ -27,7 +27,7 @@ Here are some of my coolest creations:
 - **JavaScript** (ES6+)
 - **p5.js** & **p5.play.js** for animations & games
 - **HTML5 & CSS3**
-- **Game Lab API and App Lab** (from [Code.org](https://code.org/))
+- **Game Lab API and App Lab API** (from [Code.org](https://code.org/))
 ---
 
 ## 💡 How to Play
