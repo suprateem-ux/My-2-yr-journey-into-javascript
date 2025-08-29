@@ -11,12 +11,12 @@ Here are some of my coolest creations:
 
 | Game | Demo |
 |------|------|
-| Hit the Monkey 🐒 | [Play Now](./Hit%20the%20monkey/index.html) |
-| Flying Bird 🐦 | [Play Now](./Flying%20Bird/index.html) |
-| T-Rex Runner 🦖 | [Play Now](./T%20REX%20GAME/index.html) |
-| Jumping Ball 🏀 | [Play Now](./Jumping%20ball/index.html) |
-| Save the Earth 🌍 | [Play Now](./Save%20the%20Earth/index.html) |
-| Tic Tac Toe ❌⭕ | [Play Now](./Tic%20Tac%20Toe/index.html) |
+| Hit the Monkey 🐒 | [See my handwritten code](./Hit%20the%20monkey/code.js) |
+| Flying Bird 🐦 | [See my handwritten code](./Flying%20Bird/code.js) |
+| T-Rex Runner 🦖 | [See my handwritten code](./T%20REX%20GAME/code.js) |
+| Jumping Ball 🏀 | [See my handwritten code](./Jumping%20ball/code.js) |
+| Save the Earth 🌍 | [See my handwritten code](./Save%20the%20Earth/code.js) |
+| Tic Tac Toe ❌⭕ | [See my hanfwritten code](./Tic%20Tac%20Toe/code.js) |
 
 > More projects are waiting for you! Explore the folders to see all my games and experiments.
 
@@ -32,10 +32,9 @@ Here are some of my coolest creations:
 ---
 
 ## 💡 How to Play
-
-1. Open the project folder.  
-2. Click `index.html` or the GitHub Pages link.  
-3. Enjoy the game and explore the code to learn how it works! 🎯
+0. Fork my repository or clone it
+1. Then follow the steps of github pages steps , chatgpt and github copilot helps , remember 1 game --> 1 folder
+2. Enjoy the game and explore the code to learn how it works! 🎯
 
 ---
 
