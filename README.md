@@ -5,18 +5,20 @@ Over the past 2 years, I’ve built a bunch of fun and interactive projects usin
 
 ---
 
+
 ## 🎮 Featured Projects
 
 Here are some of my coolest creations:
 
-| Game | Demo |
-|------|------|
-| Hit the Monkey 🐒 | [See my handwritten code](./Hit%20the%20monkey/code.js) |
-| Flying Bird 🐦 | [See my handwritten code](./Flying%20Bird/code.js) |
-| T-Rex Runner 🦖 | [See my handwritten code](./T%20REX%20GAME/code.js) |
-| Jumping Ball 🏀 | [See my handwritten code](./Jumping%20ball/code.js) |
-| Save the Earth 🌍 | [See my handwritten code](./Save%20the%20Earth/code.js) |
-| Tic Tac Toe ❌⭕ | [See my hanfwritten code](./Tic%20Tac%20Toe/code.js) |
+| Game | Code | Run it |
+|------|------|--------|
+| Hit the Monkey 🐒 | [See my code](./Hit%20the%20monkey/code.js) | [Run it ](./Hit%20the%20monkey/index.html) |
+| Flying Bird 🐦 | [See my code](./Flying%20Bird/code.js) | [Run it](./Flying%20Bird/index.html) |
+| T-Rex Runner 🦖 | [See my code](./T%20REX%20GAME/code.js) | [Run it](./T%20REX%20GAME/index.html) |
+| Jumping Ball 🏀 | [See my code](./Jumping%20ball/code.js) | [Run it](./Jumping%20ball/index.html) |
+| Save the Earth 🌍 | [See my code](./Save%20the%20Earth/code.js) | [Run it](./Save%20the%20Earth/index.html) |
+| Tic Tac Toe ❌⭕ | [See my code](./Tic%20Tac%20Toe/code.js) | [Run it](./Tic%20Tac%20Toe/index.html) |
+
 
 > More projects are waiting for you! Explore the folders to see all my games and experiments. Others files are assets of [Code.org](https://code.org/) where i practiced my coding while exporting my code as code.org has its own animations and all 
 
