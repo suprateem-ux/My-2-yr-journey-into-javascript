@@ -1,7 +1,7 @@
 # 🚀 My 2-Year Journey into JavaScript
 
 Welcome to my **JavaScript adventure**! 🎉  
-Over the past 2 years, I’ve built a bunch of fun and interactive projects using **Game Lab, p5.js, and pure JavaScript**. You can **play, explore, and learn** from them directly on GitHub Pages! 🌐. 
+Over the past 2 years, I’ve built a bunch of fun and interactive projects using **Game Lab of code.org, App lab of code.org, and pure JavaScript**. You can **play, explore, and learn** from them directly on GitHub Pages! 🌐. 
 
 ---
 
