@@ -1,7 +1,7 @@
 # 🚀 My 2-Year Journey into JavaScript
 
 Welcome to my **JavaScript adventure**! 🎉  
-Over the past 2 years, I’ve built a bunch of fun and interactive projects using **Game Lab, p5.js, and pure JavaScript**. You can **play, explore, and learn** from them directly on GitHub Pages! 🌐
+Over the past 2 years, I’ve built a bunch of fun and interactive projects using **Game Lab, p5.js, and pure JavaScript**. You can **play, explore, and learn** from them directly on GitHub Pages! 🌐. 
 
 ---
 
@@ -18,7 +18,7 @@ Here are some of my coolest creations:
 | Save the Earth 🌍 | [See my handwritten code](./Save%20the%20Earth/code.js) |
 | Tic Tac Toe ❌⭕ | [See my hanfwritten code](./Tic%20Tac%20Toe/code.js) |
 
-> More projects are waiting for you! Explore the folders to see all my games and experiments.
+> More projects are waiting for you! Explore the folders to see all my games and experiments. Others files are assets of [Code.org](https://code.org/) where i practiced my coding while exporting my code as code.org has its own animations and all 
 
 ---
 
