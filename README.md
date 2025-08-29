@@ -36,6 +36,8 @@ Here are some of my coolest creations:
 0. Fork my repository or clone it
 1. Then follow the steps of github pages steps , chatgpt and github copilot helps , remember 1 game --> 1 folder
 2. Enjoy the game and explore the code to learn how it works! 🎯
+3. Example after u find out the steps to play it with ur hand using github pages , deployment url can be ```https://suprateem-ux.github.io/MY-2-YR-JOURNEY-OF-JAVASCRIPT/Flying%20Bird/``` , ```%20``` for the space so ```https://<username>.github.io/<repo-name>/<folder-name>/```
+
 
 ---
 
